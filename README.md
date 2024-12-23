@@ -1,5 +1,8 @@
 # 2025 High Stakes
 
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml)
+[![MIT license](https://img.shields.io/github/license/vex-ssis/2025)](https://vex-ssis.mit-license.org/)
+
 SSIS Robotics in the "High Stakes" VEX competition 2024-2025
 
 ## Events

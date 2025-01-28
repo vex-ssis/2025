@@ -53,3 +53,16 @@ And another [event in the north](https://www.robotevents.com/robot-competitions/
 - 2024/10/05 none of 128
 - 2025/01/28 132 of 439 with 30 points and 31 seconds stop time for 1599V, #3 in Vietnam (4 teams total, best at rank 54 for 50922T
 - 2025/
+
+
+## Available spots at Worlds
+
+The year 2024 saw an increase in interest for VEX V5 in Vietnam, while the focus shifted away from VEX IQ. That's even more the case for 2025 and the available spots to compete at VEX Worlds in Dallas. Now there are [7 spots at V5RC](https://kb.roboticseducation.org/hc/en-us/articles/5474199602071-Qualifying-Criteria-for-VEX-Robotics-Competition-Events) for Vietnam!
+
+|      | VIQRC (ES) | VIQRC (MS) | V5RC (MS) | V5RC (HS) | SSIS |
+|------|:----------:|:----------:|:---------:|:---------:|:----:|
+| 2023 |     14     |      6     |     1     |     1     |   2  |
+| 2024 |      3     |      5     |     1     |     3     |   0  |
+| 2025 |      3     |      5     |     3     |     4     |   ?  |
+
+Let's see how many spots are available for SSIS this year!

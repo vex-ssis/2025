@@ -7,17 +7,28 @@ SSIS Robotics in the "High Stakes" VEX competition 2024-2025
 
 ## SSIS VEX Robotics Scrimmage 2024/10/05
 
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1728446767/saigon/sogzqtc3adnw2tk4exfz/2024_10_5VEXScrimmage-SSISStories2.jpg" width="30%" align="right">
+
 For the event [SSIS VEX High Stakes Scrimmage Season 24-25](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7374.html#general-info) more than 20 teams signed up, and a few visited without a licence number to have more than 30 teams compete and learn at this scrimmage! All teams shared their knowledge and the students, organizers and supporters embraced this spirit.
 
-Here is a s[hort article](https://www.ssis.edu.vn/student-life/post-details/~board/hs/post/ssis-hosts-vietnams-first-vex-robotics-scrimmage-of-the-year) of this event on the website of SSIS.
+Here is a [short article](https://www.ssis.edu.vn/student-life/post-details/~board/hs/post/ssis-hosts-vietnams-first-vex-robotics-scrimmage-of-the-year) of this event on the website of SSIS.
 
 ## SSIS Qualifiers 2024/11/16
 
 Labeled as [SSIS VEX Qualifying Tournament Season 24-25](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7852.html#general-info) it were not only SSIS teams on this November weekend - 37 showed up, and Panda robotics coming out as Tournament Champions. Yet SSIS was strong with 8 teams. Highest place is [#4 for 1599V in skills](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7852.html#results-) and [#2 for 1599R SSIS Christopher Columbus](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7852.html#results-) with 6-0-0 a total of 6 wins!
 
+- 1599R #2 6-0-0 and #6 with 50 skill points 40/10
+- 1599N #8 5-1-0 and #11 with 39 skill points 31/8
+- 1599Z #13 4-2-0 and #19 with 21 skill points 13/8
+- 1599V #15 3-3-0 and #4 with 54 skill points 39/15
+- 1599C #16 3-2-1 and #12 with 34 skill points 26/8
+- 1299E #30 1-4-1 and #30 with 0 skill points (2 attempts with programming)
+- 1599D #32 1-4-1 and #32 with 0 skill points (1 attempt driving)
+- 1599W #35 0-5-1 of 37 teams
+
 ## VEX V5 High Stakes Vietnam Tournament 2024/12/22
 
-It is the [first event in the northern region](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-9248.html#general-info) for this season, and 26 teams joined the competition. SSIS was not a part this time - they are quite busy with their own scrimmages and qualifiers!
+It is the [first event in the northern region](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-9248.html#general-info) for this season (after the [scrimmage on November 10th](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8703.html#general-info) with 7 teams), and 26 teams joined the competition. SSIS was not a part this time - they are quite busy with their own scrimmages and qualifiers!
 
 ## Southern Regional V5RC Championships 2025/02/09
 

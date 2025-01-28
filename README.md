@@ -5,6 +5,8 @@
 
 SSIS Robotics in the "High Stakes" VEX competition 2024-2025
 
+<img src="docs/1x1.png" width="20%"><img src="docs/high_stakes.png" width="60%">
+
 ## SSIS VEX Robotics Scrimmage 2024/10/05
 
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1728446767/saigon/sogzqtc3adnw2tk4exfz/2024_10_5VEXScrimmage-SSISStories2.jpg" width="30%" align="right">
@@ -16,6 +18,8 @@ Here is a [short article](https://www.ssis.edu.vn/student-life/post-details/~boa
 ## SSIS Qualifiers 2024/11/16
 
 Labeled as [SSIS VEX Qualifying Tournament Season 24-25](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7852.html#general-info) it were not only SSIS teams on this November weekend - 37 showed up, and Panda robotics coming out as Tournament Champions. Yet SSIS was strong with 8 teams. Highest place is [#4 for 1599V in skills](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7852.html#results-) and [#2 for 1599R SSIS Christopher Columbus](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7852.html#results-) with 6-0-0 a total of 6 wins!
+
+<img src="docs/high_stakes_top.png" align="right" width="25%">
 
 - 1599R #2 6-0-0 and #6 with 50 skill points 40/10
 - 1599N #8 5-1-0 and #11 with 39 skill points 31/8

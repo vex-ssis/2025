@@ -61,7 +61,7 @@ The year 2024 saw an increase in interest for VEX V5 in Vietnam, while the focus
 
 |      | VIQRC (ES) | VIQRC (MS) | V5RC (MS) | V5RC (HS) | SSIS |
 |------|:----------:|:----------:|:---------:|:---------:|:----:|
-| 2023 |     14     |      6     |     1     |     1     |   2  |
+| 2023 |      [6](https://en.vietnamplus.vn/vietnam-to-send-20-teams-to-vex-robotics-world-championship-2023-post247574.vnp)     |     [13](https://baogialai.com.vn/hoc-sinh-gia-lai-tiec-nuoi-dung-buoc-o-vong-loai-giai-vo-dich-the-gioi-vex-robotics-2023-post236206.html)     |     1     |     1     |   [2](https://sites.google.com/ssis.edu.vn/vex)  |
 | 2024 |      3     |      5     |     1     |     3     |   0  |
 | 2025 |      3     |      5     |     3     |     4     |   ?  |
 

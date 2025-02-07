@@ -1,7 +1,7 @@
 # 2025 High Stakes
 
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml)
 [![MIT license](https://img.shields.io/github/license/vex-ssis/2025)](https://vex-ssis.mit-license.org/)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml)
 
 SSIS Robotics in the "High Stakes" VEX competition 2024-2025
 
@@ -34,9 +34,20 @@ Labeled as [SSIS VEX Qualifying Tournament Season 24-25](https://www.robotevents
 
 It is the [first event in the northern region](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-9248.html#general-info) for this season (after the [scrimmage on November 10th](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8703.html#general-info) with 7 teams), and 26 teams joined the competition. SSIS was not a part this time - they are quite busy with their own scrimmages and qualifiers!
 
+A day before the National competition the [World Skills Standing](https://www.robotevents.com/robot-competitions/vex-robotics-competition/standings/skills) has 5399 teams with entries. 29 teams are from Vietnam, with team 50922T LSTS MAKO MANIACS having 94 points and rank 139 in the world. The Vietnamese list has also 4 teams from SSIS with their respective position:
+
+| #vn | #world | score | number | team name                      |
+|:---:|:------:|:-----:|:------:|--------------------------------|
+|   8 |  1100  |   54  |  1599V | SSIS Vietnamese Banana Farmers |
+|  13 |  1866  |   39  |  1599N | SSIS Black Vulture             |
+|  15 |  2208  |   34  |  1599C | SSIS CoCoa                     |
+|  21 |  3416  |   21  |  1599Z | SSIS Titans                    |
+
+Currently the highest scores worldwide are 131, 127 and 122 points.
+
 ## Southern Regional V5RC Championships 2025/02/09
 
-On [this event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7853.html#general-info) we have already 48 teams signed up! Currently no Award qualifies for anything, but this might change. Vietnam has 3 HS and 1 MS spot at VEX Worlds in Dallas 2025, and they have to be filled.
+On [this event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7853.html#general-info) we have already 48 teams signed up! Currently no Award qualifies for anything, but this might change. Vietnam has 4HS and 3 MS spot at VEX Worlds in Dallas 2025, and they have to be filled.
 
 ## VEX Robotics Vietnam National Championship 2025: V5 High Stakes 2025/03/02
 
@@ -51,8 +62,8 @@ And another [event in the north](https://www.robotevents.com/robot-competitions/
 ### Virtual Standings [on robotevents](https://www.robotevents.com/robot-competitions/vex-robotics-competition/virtualSkillsStandings)
 
 - 2024/10/05 none of 128
-- 2025/01/28 132 of 439 with 30 points and 31 seconds stop time for 1599V, #3 in Vietnam (4 teams total, best at rank 54 for 50922T
-- 2025/
+- 2025/01/28 132 of 439 with 30 points and 31 seconds stop time for 1599V, #3 in Vietnam (4 teams total, best at rank 54 for 50922T with 46 points)
+- 2025/02/07 147 of 465 with 30 points and 31 seconds stop time for 1599V, #3 in Vietnam (50922T now rank 57 worldwide)
 
 
 ## Available spots at Worlds

@@ -43,7 +43,7 @@ A day before the National competition the [World Skills Standing](https://www.ro
 |  15 |  2208  |   34  |  1599C | SSIS CoCoa                     |
 |  21 |  3416  |   21  |  1599Z | SSIS Titans                    |
 
-Currently the highest scores worldwide are 131, 127 and 122 points.
+Currently the highest scores worldwide are 131, 127 and 122 points in HS.
 
 ## Southern Regional V5RC Championships 2025/02/09
 
@@ -51,10 +51,10 @@ On [this event](https://www.robotevents.com/robot-competitions/vex-robotics-comp
 
 ![image from finals2](docs/2025-02-09_finals2.jpg)
 
-- MS Exellence award: [62024N](https://www.robotevents.com/teams/V5RC/62024N) Panda Robot
-- MS Tournament champion: [23457V BRICK LAB 01](https://www.robotevents.com/teams/V5RC/23457V)  
-- HS Exellence award: [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS
-- HS Tournament champion: [23457H BL SAI GON CHEETAH](https://www.robotevents.com/teams/V5RC/23457H) with robot **BRICK LAB 01**
+- MS Exellence award: [62024N](https://www.robotevents.com/teams/V5RC/62024N) Panda Robot (currently #1 VN and 43/2617 with a score of 92 in [World Skills Standings](https://www.robotevents.com/robot-competitions/vex-robotics-competition/standings/skills?search=&event_region=&country=253&grade_level=Middle+School))
+- MS Tournament champion: [23457V BRICK LAB 01](https://www.robotevents.com/teams/V5RC/23457V) (#7 VN and 704/2617 in World Skills)
+- HS Exellence award: [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS (currently #1 VN and 35/5666 with a score of 109 in [World Skills Standings HS](https://www.robotevents.com/robot-competitions/vex-robotics-competition/standings/skills?search=&event_region=&country=253&grade_level=High+School))
+- HS Tournament champion: [23457H BL SAI GON CHEETAH](https://www.robotevents.com/teams/V5RC/23457H) with robot **BRICK LAB 01** (#13 VN and 1524/5666 in World Skills)
 
 Skills award to [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS, Design award to [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers, Judges award to [86669A](https://www.robotevents.com/teams/V5RC/86669A) EDS_Bunreal, Innovate award to [37456H](https://www.robotevents.com/teams/V5RC/37456H) PENN BÁNH Ú, Sportsmanships award to [36732A](https://www.robotevents.com/teams/V5RC/36732A) Vietnam Australia School Sunrise.
 

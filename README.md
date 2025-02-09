@@ -47,7 +47,16 @@ Currently the highest scores worldwide are 131, 127 and 122 points.
 
 ## Southern Regional V5RC Championships 2025/02/09
 
-On [this event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7853.html#general-info) we have already 48 teams signed up! Currently no Award qualifies for anything, but this might change. Vietnam has 4HS and 3 MS spot at VEX Worlds in Dallas 2025, and they have to be filled.
+On [this event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7853.html#general-info) a new record high of 46 teams compeated. Follow on [the life stream](https://www.youtube.com/watch?v=s_9mHTQSZFg) for the qualification and [steam of the final day](https://www.youtube.com/watch?v=pXdurRYY6mk)! Vietnam has 4 HS and 3 MS spot at VEX Worlds in Dallas 2025, and 4 of them are awarded on February 9th:
+
+![image from finals2](docs/2025-02-09_finals2.jpg)
+
+- MS Exellence award: [62024N](https://www.robotevents.com/teams/V5RC/62024N) Panda Robot
+- MS Tournament champion: [23457V BRICK LAB 01](https://www.robotevents.com/teams/V5RC/23457V)  
+- HS Exellence award: [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS
+- HS Tournament champion: [23457H BL SAI GON CHEETAH](https://www.robotevents.com/teams/V5RC/23457H) with robot **BRICK LAB 01**
+
+Skills award to [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS, Design award to [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers, Judges award to [86669A](https://www.robotevents.com/teams/V5RC/86669A) EDS_Bunreal, Innovate award to [37456H](https://www.robotevents.com/teams/V5RC/37456H) PENN BÁNH Ú, Sportsmanships award to [36732A](https://www.robotevents.com/teams/V5RC/36732A) Vietnam Australia School Sunrise.
 
 ## VEX Robotics Vietnam National Championship 2025: V5 High Stakes 2025/03/02
 

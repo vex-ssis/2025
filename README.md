@@ -60,11 +60,17 @@ Skills award to [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAK
 
 ## VEX Robotics Vietnam National Championship 2025: V5 High Stakes 2025/03/02
 
+<img src="docs/20250228_Instagram.jpg" align="right" width="30%">
+
 And another [event in the north](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-9244.html#general-info), with currently 30 teams signed up. SSIS will send 3 teams:
 
 - 1599N SSIS Black Vulture
 - 1599R SSIS Christopher Columbus
 - 1599V SSIS Vietnamese Banana Farmers
+
+### Results
+
+It's still 2 days in the future ...
 
 ## Results
 

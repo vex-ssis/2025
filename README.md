@@ -74,6 +74,21 @@ And we got the remaining 3 spots to represent Vietnam at VEX World 2025 in Dalla
 - Tournament Champions [36070X](https://www.robotevents.com/teams/V5RC/36070X) FPTCanTho_Enterprise from STEAM for Vietnam Foundation
 - Tournament Champions 36070N again ... so who is going? It is 1599V!
 
+And with this skills event the updated scores at the [World Skills Standing](https://www.robotevents.com/robot-competitions/vex-robotics-competition/standings/skills) has 6229 teams with entries. 32 teams HS are from Vietnam, with team 50922T LSTS MAKO MANIACS having 109 points and rank 58 in the world. The Vietnamese list has also 5 teams from SSIS with their respective position:
+
+| #vn | #world | score | number | team name                      |
+|:---:|:------:|:-----:|:------:|--------------------------------|
+|  10 |   869  |   70  |  1599V | SSIS Vietnamese Banana Farmers |
+|  19 |  2584  |   39  |  1599N | SSIS Black Vulture             |
+|  21 |  2963  |   34  |  1599C | SSIS CoCoa                     |
+|  26 |  4205  |   21  |  1599Z | SSIS Titans                    |
+|  30 |  5725  |    8  |  1599E | SSIS DinoSoap                  |
+
+The current list for Middle school contains 2827 teams with 11 teams from Vietnam. The only one from SSIS is Christopher Columbus on 6th place:
+
+| #vn | #world | score | number | team name                 |
+|:---:|:------:|:-----:|:------:|---------------------------|
+|   6 |   500  |   50  |  1599R | SSIS Christopher Columbus |
 
 ## VEX Robotics World Championship High School 2025/05/06 - 08
 

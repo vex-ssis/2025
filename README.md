@@ -89,9 +89,9 @@ Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-c
 
 Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info). There should be 3 teams from Vietnam:
 
-- team 1
-- team 2
-- team 3
+- [23457V](https://www.robotevents.com/teams/V5RC/23457V)	BRICK LAB 01 from BRICK lab robotics CLUB
+- [27908V](https://www.robotevents.com/teams/V5RC/27908V)	LSTS LOGICRIDERS from	Lawrence S.Ting School
+- [62024N](https://www.robotevents.com/teams/V5RC/62024N) Panda Robot from Panda Robotics
 
 
 ## Virtual Standings [on robotevents](https://www.robotevents.com/robot-competitions/vex-robotics-competition/virtualSkillsStandings)
@@ -110,6 +110,6 @@ The year 2024 saw an increase in interest for VEX V5 in Vietnam, while the focus
 |------|:----------:|:----------:|:---------:|:---------:|:----:|
 | 2023 |      [6](https://en.vietnamplus.vn/vietnam-to-send-20-teams-to-vex-robotics-world-championship-2023-post247574.vnp)     |     [13](https://baogialai.com.vn/hoc-sinh-gia-lai-tiec-nuoi-dung-buoc-o-vong-loai-giai-vo-dich-the-gioi-vex-robotics-2023-post236206.html)     |     1     |     1     |   [2](https://sites.google.com/ssis.edu.vn/vex)  |
 | 2024 |      3     |      5     |     1     |     3     |   0  |
-| 2025 |      3     |      5     |     3     |     4     |   ?  |
+| 2025 |      3     |      5     |     3     |     4     |   [1](https://www.robotevents.com/teams/V5RC/1599V)  |
 
-Let's see how many spots are available for SSIS this year!
+And the Vietnam Banana Farmers (previous Vector as 76209R rookies team) is returning to Dallas!

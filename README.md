@@ -58,27 +58,48 @@ On [this event](https://www.robotevents.com/robot-competitions/vex-robotics-comp
 
 Skills award to [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS, Design award to [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers, Judges award to [86669A](https://www.robotevents.com/teams/V5RC/86669A) EDS_Bunreal, Innovate award to [37456H](https://www.robotevents.com/teams/V5RC/37456H) PENN BÁNH Ú, Sportsmanships award to [36732A](https://www.robotevents.com/teams/V5RC/36732A) Vietnam Australia School Sunrise.
 
-## VEX Robotics Vietnam National Championship 2025: V5 High Stakes 2025/03/02
+## VEX Robotics Vietnam National Championship 2025: V5 High Stakes - Skills only 2025/03/02
 
 <img src="docs/20250228_Instagram.jpg" align="right" width="30%">
 
-And another [event in the north](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-9244.html#general-info), with currently 30 teams signed up. SSIS will send 3 teams:
+And another [event in the north](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-9244.html#general-info), with 27 teams attending. SSIS will send 3 teams:
 
-- 1599N SSIS Black Vulture
-- 1599R SSIS Christopher Columbus
-- 1599V SSIS Vietnamese Banana Farmers
+- 1599N SSIS Black Vulture, rank 21 with 39 points (36/3)
+- 1599R SSIS Christopher Columbus, rank 20 with 40 points (40/0)
+- 1599V SSIS Vietnamese Banana Farmers, rank 10 with 70 (39 driving/31 programming) points
 
-### Results
+And we got the remaining 3 spots to represent Vietnam at VEX World 2025 in Dallas:
 
-It's still 2 days in the future ...
+- Excellence Award: [36070N](https://www.robotevents.com/teams/V5RC/36070N) Green Ams Robotics Team 1 from Hanoi Amsterdam High School for the Gifted (also Tournament Champion)
+- Tournament Champions [36070X](https://www.robotevents.com/teams/V5RC/36070X) FPTCanTho_Enterprise from STEAM for Vietnam Foundation
+- Tournament Champions 36070N again ... so who is going? It is 1599V!
 
-## Results
 
-### Virtual Standings [on robotevents](https://www.robotevents.com/robot-competitions/vex-robotics-competition/virtualSkillsStandings)
+## VEX Robotics World Championship High School 2025/05/06 - 08
+
+Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8909.html#general-info). There should be 4 teams from Vietnam:
+
+- [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers from Saigon South International School (SSIS)
+- [23457H](https://www.robotevents.com/teams/V5RC/23457H) BL SAI GON CHEETAH from BRICK lab robotics CLUB
+- [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS from Lawrence S.Ting School
+- [62024P](https://www.robotevents.com/teams/V5RC/62024P) Panda Robotics Platinum from Panda Robotics
+
+
+## VEX Robotics World Championship High School 2025/05/09 - 11
+
+Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info). There should be 3 teams from Vietnam:
+
+- team 1
+- team 2
+- team 3
+
+
+## Virtual Standings [on robotevents](https://www.robotevents.com/robot-competitions/vex-robotics-competition/virtualSkillsStandings)
 
 - 2024/10/05 none of 128
 - 2025/01/28 132 of 439 with 30 points and 31 seconds stop time for 1599V, #3 in Vietnam (4 teams total, best at rank 54 for 50922T with 46 points)
 - 2025/02/07 147 of 465 with 30 points and 31 seconds stop time for 1599V, #3 in Vietnam (50922T now rank 57 worldwide)
+- 2025/03/06 154 of 489 with 30 points, now 5 teams in Vietnam total, and 50922T at 61 worldwide
 
 
 ## Available spots at Worlds

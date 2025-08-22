@@ -1,6 +1,7 @@
 # 2025 High Stakes
 
 [![MIT license](https://img.shields.io/github/license/vex-ssis/2025)](https://vex-ssis.mit-license.org/)
+![GitHub Release](https://img.shields.io/github/v/release/vex-ssis/2025)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/vex-ssis/2025/actions/workflows/jekyll-gh-pages.yml)
 
 SSIS Robotics in the "High Stakes" VEX competition 2024-2025
@@ -30,6 +31,11 @@ Labeled as [SSIS VEX Qualifying Tournament Season 24-25](https://www.robotevents
 - 1599D #32 1-4-1 and #32 with 0 skill points (1 attempt driving)
 - 1599W #35 0-5-1 of 37 teams
 
+## Formosa 2024/12/06
+
+Team 1599V got the Amaze Award at their visit to TAS. [This event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-5817.html#teams) was visited 1599D, 1599N, 1599R and 1599V. [Post on Instagram](https://www.instagram.com/p/DDpXs7Xywe2/?img_index=1). 1599R made it to place 8.
+
+
 ## VEX V5 High Stakes Vietnam Tournament 2024/12/22
 
 It is the [first event in the northern region](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-9248.html#general-info) for this season (after the [scrimmage on November 10th](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8703.html#general-info) with 7 teams), and 26 teams joined the competition. SSIS was not a part this time - they are quite busy with their own scrimmages and qualifiers!
@@ -43,7 +49,7 @@ A day before the National competition the [World Skills Standing](https://www.ro
 |  15 |  2208  |   34  |  1599C | SSIS CoCoa                     |
 |  21 |  3416  |   21  |  1599Z | SSIS Titans                    |
 
-Currently the highest scores worldwide are 131, 127 and 122 points in HS.
+Currently the highest scores worldwide are 131, 127 and 122 points in HS. 
 
 ## Southern Regional V5RC Championships 2025/02/09
 
@@ -99,6 +105,7 @@ Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-c
 - [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS from Lawrence S.Ting School
 - [62024P](https://www.robotevents.com/teams/V5RC/62024P) Panda Robotics Platinum from Panda Robotics
 
+1599V got place 62/83 in their "Design" division. And 151/405 in the skills ranking.
 
 ## VEX Robotics World Championship High School 2025/05/09 - 11
 

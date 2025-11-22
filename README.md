@@ -128,15 +128,15 @@ Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-c
 
 The year 2024 saw an increase in interest for VEX V5 in Vietnam, while the focus shifted away from VEX IQ. That's even more the case for 2025 and the available spots to compete at VEX Worlds in Dallas. Now there are [7 spots at V5RC](https://kb.roboticseducation.org/hc/en-us/articles/5474199602071-Qualifying-Criteria-for-VEX-Robotics-Competition-Events) for Vietnam!
 
-|      | VIQRC (ES) | VIQRC (MS) | V5RC (MS) | V5RC (HS) | SSIS |
-|------|:----------:|:----------:|:---------:|:---------:|:----:|
-| 2018 |      -     |      -     |     -     |     1     |   1 - 76209G |
-| 2019 |      -     |      -     |     -     |     1     |   1 - 76209X |
-| 2020 |      -     |      -     |     -     |  Covid19  |   1 - 76209G |
-| 2021 |   Covid19  |   Covid19  |  Covid19  |  Covid19  |   -  |
-| 2022 |   Covid19  |   Covid19  |  Covid19  |  Covid19  |   -  |
-| 2023 |      [6](https://en.vietnamplus.vn/vietnam-to-send-20-teams-to-vex-robotics-world-championship-2023-post247574.vnp)     |     [13](https://baogialai.com.vn/hoc-sinh-gia-lai-tiec-nuoi-dung-buoc-o-vong-loai-giai-vo-dich-the-gioi-vex-robotics-2023-post236206.html)     |     1     |     1     |   [2](https://sites.google.com/ssis.edu.vn/vex) - 76209M & 76209R |
-| 2024 |      3     |      5     |     1     |     3     |   0  |
-| 2025 |      3     |      5     |     3     |     4     |   [1](https://www.robotevents.com/teams/V5RC/1599V) - 1599V |
+|       Season        | VIQRC (ES) | VIQRC (MS) | V5RC (MS) | V5RC (HS) | SSIS |
+|---------------------|:----------:|:----------:|:---------:|:---------:|:----:|
+| 2018  In The Zone   |      -     |      -     |     -     |     1     |   1 - [76209G](https://www.robotevents.com/teams/V5RC/76209G) |
+| 2019 Turning Point  |      -     |      -     |     -     |     1     |   1 - [76209X](https://www.robotevents.com/teams/V5RC/76209X) |
+| 2020 Tower Takeover |      -     |      -     |     -     |  Covid19  |   1 - [76209G](https://www.robotevents.com/teams/V5RC/76209G) |
+| 2021 Change-Up      |   Covid19  |   Covid19  |  Covid19  |  Covid19  |   -  |
+| 2022 Tipping Point  |   Covid19  |   Covid19  |  Covid19  |  Covid19  |   -  |
+| 2023 Spin Up        |      [6](https://en.vietnamplus.vn/vietnam-to-send-20-teams-to-vex-robotics-world-championship-2023-post247574.vnp)     |     [13](https://baogialai.com.vn/hoc-sinh-gia-lai-tiec-nuoi-dung-buoc-o-vong-loai-giai-vo-dich-the-gioi-vex-robotics-2023-post236206.html)     |     1     |     1     |   [2](https://sites.google.com/ssis.edu.vn/vex) - [76209M](https://www.robotevents.com/teams/V5RC/76209M) & [76209R](https://www.robotevents.com/teams/V5RC/76209R) |
+| 2024 Over Under     |      3     |      5     |     1     |     3     |   0  |
+| 2025 High Stakes    |      3     |      5     |     3     |     4     |   1 - [1599V](https://www.robotevents.com/teams/V5RC/1599V) |
 
 And the Vietnam Banana Farmers 1599V (previous Vector as 76209R Racoons [Rookies] team) is returning to Dallas!

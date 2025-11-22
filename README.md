@@ -98,22 +98,22 @@ The current list for Middle school contains 2827 teams with 11 teams from Vietna
 
 ## VEX Robotics World Championship High School 2025/05/06 - 08
 
-Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8909.html#general-info). There should be 4 teams from Vietnam:
+Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8909.html#general-info). There should be 4 teams from Vietnam (out of 833):
 
-- [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers from Saigon South International School (SSIS)
-- [23457H](https://www.robotevents.com/teams/V5RC/23457H) BL SAI GON CHEETAH from BRICK lab robotics CLUB
-- [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS from Lawrence S.Ting School
-- [62024P](https://www.robotevents.com/teams/V5RC/62024P) Panda Robotics Platinum from Panda Robotics
+- [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers from Saigon South International School (SSIS), rank 62 w 10/24/176
+- [23457H](https://www.robotevents.com/teams/V5RC/23457H) BL SAI GON CHEETAH from BRICK lab robotics CLUB, rank 68 w 9/21/140
+- [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS from Lawrence S.Ting School, rank 54 w 11/39/170
+- [62024P](https://www.robotevents.com/teams/V5RC/62024P) Panda Robotics Platinum from Panda Robotics, rank 44 w 13/30/219
 
 1599V got place 62/83 in their "Design" division. And 151/405 in the skills ranking.
 
-## VEX Robotics World Championship High School 2025/05/09 - 11
+## VEX Robotics World Championship Middle School 2025/05/09 - 11
 
-Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info). There should be 3 teams from Vietnam:
+Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info). There should be 3 teams from Vietnam (out of 488):
 
-- [23457V](https://www.robotevents.com/teams/V5RC/23457V)	BRICK LAB 01 from BRICK lab robotics CLUB
-- [27908V](https://www.robotevents.com/teams/V5RC/27908V)	LSTS LOGICRIDERS from	Lawrence S.Ting School
-- [62024N](https://www.robotevents.com/teams/V5RC/62024N) Panda Robot from Panda Robotics
+- [23457V](https://www.robotevents.com/teams/V5RC/23457V)	BRICK LAB 01 from BRICK lab robotics CLUB, rank 42 w 11/15/244
+- [27908V](https://www.robotevents.com/teams/V5RC/27908V)	LSTS LOGICRIDERS from	Lawrence S.Ting School, rank 51 w 10/9/178
+- [62024N](https://www.robotevents.com/teams/V5RC/62024N) Panda Robot from Panda Robotics, rank 52 w 9/21/262
 
 
 ## Virtual Standings [on robotevents](https://www.robotevents.com/robot-competitions/vex-robotics-competition/virtualSkillsStandings)

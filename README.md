@@ -100,10 +100,10 @@ The current list for Middle school contains 2827 teams with 11 teams from Vietna
 
 Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8909.html#general-info). There should be 4 teams from Vietnam (out of 833):
 
-- [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers from Saigon South International School (SSIS), rank 62 w 10/24/176
-- [23457H](https://www.robotevents.com/teams/V5RC/23457H) BL SAI GON CHEETAH from BRICK lab robotics CLUB, rank 68 w 9/21/140
-- [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS from Lawrence S.Ting School, rank 54 w 11/39/170
-- [62024P](https://www.robotevents.com/teams/V5RC/62024P) Panda Robotics Platinum from Panda Robotics, rank 44 w 13/30/219
+- [1599V](https://www.robotevents.com/teams/V5RC/1599V) SSIS Vietnamese Banana Farmers from Saigon South International School (SSIS), _Design Award_, rank 62 w 10/24/176
+- [23457H](https://www.robotevents.com/teams/V5RC/23457H) BL SAI GON CHEETAH from BRICK lab robotics CLUB, _Tournament Champions_, rank 68 w 9/21/140
+- [50922T](https://www.robotevents.com/teams/V5RC/50922T) LSTS MAKO MANIACS from Lawrence S.Ting School, _Robot Skills Champion_ and _Excellence Award_, rank 54 w 11/39/170
+- [62024P](https://www.robotevents.com/teams/V5RC/62024P) Panda Robotics Platinum from Panda Robotics, _Tournament Champions_, rank 44 w 13/30/219
 
 1599V got place 62/83 in their "Design" division. And 151/405 in the skills ranking.
 
@@ -112,7 +112,7 @@ Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-c
 In addition to the V5 National Championship events you can also qualify for VEX World with Online challenges. There are 3+3+3=9 challenges for middle school and 3+3+4=10 challenges for high school. Applying there two more teams from Vietnam entered the World Championship in 2025:
 
 - [36070M](https://www.robotevents.com/teams/V5RC/36070M) 11 from STEAM for Vietnam Foundation, rank 67 w 8/24/195
-- [36070N](https://www.robotevents.com/teams/V5RC/36070N) Green Ams Robotics Team 1 from Hanoi Amsterdam High School for the Gifted, rank 18 w 18/48/180
+- [36070N](https://www.robotevents.com/teams/V5RC/36070N) Green Ams Robotics Team 1 from Hanoi Amsterdam High School for the Gifted, _Excellence Award_, rank 18 w 18/48/180
 
 These challenges are:
 
@@ -127,10 +127,9 @@ These challenges are:
 - (Cycle 3) VEXcode VR Virtual Skills Challenge - Middle School & High School
 - (Cycle 3) A3 Robot Safety Award – Sponsored by the Association for Advancing Automation- Middle School & High School
 
-The winning contributions are
+The winning contributions are:
 
 - 36070M as [Team 11](https://challenges.robotevents.com/user/144229) in 2025 Challenges > [STEM Advocacy Challenge - High School](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry) > [Empowering Cao Bang through Robotics](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry/14761) with a [PDF file](https://challenges.robotevents.com/uploads/0025238_original.pdf) (39 pages) or a [website](https://sites.google.com/view/team-11-36070m/home)
-- 36070N as ...
 
 
 ## VEX Robotics World Championship Middle School 2025/05/09 - 11

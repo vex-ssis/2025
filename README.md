@@ -107,6 +107,32 @@ Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-c
 
 1599V got place 62/83 in their "Design" division. And 151/405 in the skills ranking.
 
+### Two more teams from Vietnam with the [Online Challenges](https://challenges.robotevents.com/)
+
+In addition to the V5 National Championship events you can also qualify for VEX World with Online challenges. There are 3+3+3=9 challenges for middle school and 3+3+4=10 challenges for high school. Applying there two more teams from Vietnam entered the World Championship in 2025:
+
+- [36070M](https://www.robotevents.com/teams/V5RC/36070M) 11 from STEAM for Vietnam Foundation, rank 67 w 8/24/195
+- [36070N](https://www.robotevents.com/teams/V5RC/36070N) Green Ams Robotics Team 1 from Hanoi Amsterdam High School for the Gifted, rank 18 w 18/48/180
+
+These challenges are:
+
+- Team Recruitment Poster Challenge – Middle School Teams & High School Teams
+- Meme My Team Challenge – Middle School Teams & High School Teams
+- Innovate to Elevate Challenge – Middle School Teams & High School Teams
+- (Cycle 2) Create a Game Element Challenge: CAD Challenge - Middle School & High School
+- (Cycle 2) Game Design Challenge: The Upcycling Effect - Middle School & High School
+- (Cycle 2) Show Your Spark: Meme My Team Challenge - Middle School & High School
+- (Cycle 3) RECF Community Challenge - High School
+- (Cycle 3) Girl Powered Challenge: Leadership in STEM Challenge - Middle School & High School
+- (Cycle 3) VEXcode VR Virtual Skills Challenge - Middle School & High School
+- (Cycle 3) A3 Robot Safety Award – Sponsored by the Association for Advancing Automation- Middle School & High School
+
+The winning contributions are
+
+- 36070M as [Team 11](https://challenges.robotevents.com/user/144229) in 2025 Challenges > [STEM Advocacy Challenge - High School](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry) > [Empowering Cao Bang through Robotics](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry/14761) with a [PDF file](https://challenges.robotevents.com/uploads/0025238_original.pdf) (39 pages) or a [website](https://sites.google.com/view/team-11-36070m/home)
+- 36070N as ...
+
+
 ## VEX Robotics World Championship Middle School 2025/05/09 - 11
 
 Here is [the link](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info). There should be 3 teams from Vietnam (out of 488):
@@ -137,6 +163,6 @@ The year 2024 saw an increase in interest for VEX V5 in Vietnam, while the focus
 | 2022 Tipping Point  |   Covid19  |   Covid19  |  Covid19  |  Covid19  |   -  |
 | 2023 Spin Up        |      [6](https://en.vietnamplus.vn/vietnam-to-send-20-teams-to-vex-robotics-world-championship-2023-post247574.vnp)     |     [13](https://baogialai.com.vn/hoc-sinh-gia-lai-tiec-nuoi-dung-buoc-o-vong-loai-giai-vo-dich-the-gioi-vex-robotics-2023-post236206.html)     |     1     |     1     |   [2](https://sites.google.com/ssis.edu.vn/vex) - [76209M](https://www.robotevents.com/teams/V5RC/76209M) & [76209R](https://www.robotevents.com/teams/V5RC/76209R) |
 | 2024 Over Under     |      3     |      5     |     1     |     3     |   0  |
-| 2025 High Stakes    |      3     |      5     |     3     |     4     |   1 - [1599V](https://www.robotevents.com/teams/V5RC/1599V) |
+| 2025 High Stakes    |      3     |      5     |     3     |   4 + 2   |   1 - [1599V](https://www.robotevents.com/teams/V5RC/1599V) |
 
 And the Vietnam Banana Farmers 1599V (previous Vector as 76209R Racoons [Rookies] team) is returning to Dallas!
